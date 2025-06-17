@@ -67,7 +67,3 @@ curl -X POST http://localhost:3000/match/jd \
   "summary": "..."
 }
 ```
-
----
-
-**Replace `your_authorization_token_here` with the provided token.** 
