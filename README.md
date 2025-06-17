@@ -31,12 +31,11 @@ This Node.js server provides a tRPC-powered API endpoint to analyze a candidate'
    npm install
    ```
 3. **Configure environment variables:**
-   - Create a `.env` file with:
-     ```env
-     GEMINI_API_TOKEN=your_authorization_token_here
-     GEMINI_API_URL=your_gemini_api_url
-     PORT=3000 # or any port you prefer
+   - Copy the provided `.env.template` to a new file named `.env`:
+     ```bash
+     cp .env.template .env
      ```
+   - Open `.env` and fill in the required values (e.g., your Gemini API token and URL).
 
 ## Usage
 
