@@ -1,4 +1,4 @@
-#AI-Powered CV & Job Description Analyzer
+# AI-Powered CV & Job Description Analyzer
 
 This Node.js server provides a tRPC-powered API endpoint to analyze a candidate's CV and a job description (both as PDFs) using AI. It identifies strengths, weaknesses, and alignment with the job requirements.
 
